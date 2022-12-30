@@ -1,0 +1,23 @@
+{
+  "liveServer.settings.CustomBrowser": "chrome",
+  "[css]": {
+    "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+  },
+  // "[html]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "diffEditor.wordWrap": "on",
+  "editor.wordWrap": "on",
+  "terminal.integrated.defaultProfile.osx": "fish",
+  "workbench.editor.enablePreview": false,
+  "editor.renderWhitespace": "none",
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 10,
+}
